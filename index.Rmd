@@ -19,7 +19,7 @@ Feel free to distribute this code widely and visit my [github](https://github.co
 <br>
 <br/>
 <br/>
-<p>Copyright &copy; 2021 by Sharif Amlani. Made with [RStudio](https://www.rstudio.com).</p>
+<p>Copyright &copy; 2021 by Sharif Amlan. Made with [RStudio](https://www.rstudio.com).</p>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100362112-1"></script>
