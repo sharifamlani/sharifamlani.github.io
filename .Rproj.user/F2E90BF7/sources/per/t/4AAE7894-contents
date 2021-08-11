@@ -1,0 +1,22 @@
+name: "R Code Website"
+navbar:
+  title: "R Code Website"
+  left:
+    - text: "Home"
+      href: index.html
+    # - text: "About"
+    #   href: about.html
+    - text: "R Tutorials"
+      menu:
+      - text: "Recoding"
+        href: Recoding-tutorial.html
+      - text: "Coefficient Plots"
+        href: Coefficient-Plots.html
+
+      
+output:
+  html_document:
+    theme: yeti              
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no

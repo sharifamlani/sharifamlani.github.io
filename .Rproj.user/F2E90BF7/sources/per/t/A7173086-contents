@@ -1,0 +1,32 @@
+---
+title: "Welcome!"
+---
+
+<img src="C:/Users/Shari/OneDrive/sharifamlani.github.io/Pictures/Cat Meme.jpg" style="width:30%; border:5px solid; margin-right: 20px" align="left">
+
+
+  <center>
+Thanks for visiting my R website! 
+
+Here, you find tutorials, code, and cool shiny apps.
+
+Please [contact](mailto:samlani@ucdavis.edu) me for any questions regarding code.
+
+Feel free to distribute this code widely and visit my [github](https://github.com/sharifamlani) for source code.
+  <center>
+
+
+<br>
+<br/>
+<br/>
+<p>Copyright &copy; 2021 by Sharif Amlani. Made with [RStudio](https://www.rstudio.com).</p>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100362112-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-100362112-1');
+</script>
