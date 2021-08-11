@@ -1,4 +1,5 @@
 name: "R Code Website"
+output_dir: '.'
 navbar:
   title: "R Code Website"
   left:
